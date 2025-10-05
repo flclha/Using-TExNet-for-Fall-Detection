@@ -1,0 +1,326 @@
+D:\python\Python39\python3.exe C:\Users\86136\Desktop\article\transformer-python\classification\预训练.py 
+Epoch 1 / 65, Loss: 0.5730
+Epoch 1 / 65, F1 Score: 0.6202
+Epoch 1 / 65, AUROC: 0.7884
+Epoch 1 / 65, AUPC: 0.7884
+Epoch 1 / 65, Testing: Sensitivity: 0.6657453754080522, Specificity: 0.911087256309126,Train Acc: 0.8728
+Epoch 2 / 65, Loss: 0.3868
+Epoch 2 / 65, F1 Score: 0.7135
+Epoch 2 / 65, AUROC: 0.8444
+Epoch 2 / 65, AUPC: 0.8444
+Epoch 2 / 65, Testing: Sensitivity: 0.755930359085963, Specificity: 0.9329465639033961,Train Acc: 0.9053
+Epoch 3 / 65, Loss: 0.2071
+Epoch 3 / 65, F1 Score: 0.7734
+Epoch 3 / 65, AUROC: 0.8696
+Epoch 3 / 65, AUPC: 0.8696
+Epoch 3 / 65, Testing: Sensitivity: 0.7843307943416757, Specificity: 0.9549345266094955,Train Acc: 0.9283
+Epoch 4 / 65, Loss: 0.0609
+Epoch 4 / 65, F1 Score: 0.8009
+Epoch 4 / 65, AUROC: 0.8706
+Epoch 4 / 65, AUPC: 0.8706
+Epoch 4 / 65, Testing: Sensitivity: 0.7693579978237214, Specificity: 0.9719330832599598,Train Acc: 0.9403
+Epoch 5 / 65, Loss: 0.2261
+Epoch 5 / 65, F1 Score: 0.8073
+Epoch 5 / 65, AUROC: 0.9204
+Epoch 5 / 65, AUPC: 0.9204
+Epoch 5 / 65, Testing: Sensitivity: 0.902480957562568, Specificity: 0.9384144061561471,Train Acc: 0.9328
+Epoch 6 / 65, Loss: 0.3018
+Epoch 6 / 65, F1 Score: 0.8482
+Epoch 6 / 65, AUROC: 0.9091
+Epoch 6 / 65, AUPC: 0.9091
+Epoch 6 / 65, Testing: Sensitivity: 0.8456800870511425, Specificity: 0.9725683178746175,Train Acc: 0.9528
+Epoch 7 / 65, Loss: 0.0186
+Epoch 7 / 65, F1 Score: 0.8575
+Epoch 7 / 65, AUROC: 0.9390
+Epoch 7 / 65, AUPC: 0.9390
+Epoch 7 / 65, Testing: Sensitivity: 0.9195647442872688, Specificity: 0.958400173684401,Train Acc: 0.9523
+Epoch 8 / 65, Loss: 0.2465
+Epoch 8 / 65, F1 Score: 0.8583
+Epoch 8 / 65, AUROC: 0.9438
+Epoch 8 / 65, AUPC: 0.9438
+Epoch 8 / 65, Testing: Sensitivity: 0.9319260065288357, Specificity: 0.9557185186972061,Train Acc: 0.9520
+Epoch 9 / 65, Loss: 0.1203
+Epoch 9 / 65, F1 Score: 0.8857
+Epoch 9 / 65, AUROC: 0.9466
+Epoch 9 / 65, AUPC: 0.9466
+Epoch 9 / 65, Testing: Sensitivity: 0.9229815016322089, Specificity: 0.9702404644449537,Train Acc: 0.9629
+Epoch 10 / 65, Loss: 0.1100
+Epoch 10 / 65, F1 Score: 0.8448
+Epoch 10 / 65, AUROC: 0.9522
+Epoch 10 / 65, AUPC: 0.9522
+Epoch 10 / 65, Testing: Sensitivity: 0.9628509249183895, Specificity: 0.9414940878955642,Train Acc: 0.9448
+Epoch 11 / 65, Loss: 0.1134
+Epoch 11 / 65, F1 Score: 0.8946
+Epoch 11 / 65, AUROC: 0.9605
+Epoch 11 / 65, AUPC: 0.9605
+Epoch 11 / 65, Testing: Sensitivity: 0.9539281828073993, Specificity: 0.9669919228712605,Train Acc: 0.9650
+Epoch 12 / 65, Loss: 0.0523
+Epoch 12 / 65, F1 Score: 0.8978
+Epoch 12 / 65, AUROC: 0.9605
+Epoch 12 / 65, AUPC: 0.9605
+Epoch 12 / 65, Testing: Sensitivity: 0.9522524483133841, Specificity: 0.9687810330201385,Train Acc: 0.9662
+Epoch 13 / 65, Loss: 0.0024
+Epoch 13 / 65, F1 Score: 0.9038
+Epoch 13 / 65, AUROC: 0.9642
+Epoch 13 / 65, AUPC: 0.9642
+Epoch 13 / 65, Testing: Sensitivity: 0.9584983677910772, Specificity: 0.9699509904433374,Train Acc: 0.9682
+Epoch 14 / 65, Loss: 0.0061
+Epoch 14 / 65, F1 Score: 0.9178
+Epoch 14 / 65, AUROC: 0.9640
+Epoch 14 / 65, AUPC: 0.9640
+Epoch 14 / 65, Testing: Sensitivity: 0.9501632208922742, Specificity: 0.9777828703759543,Train Acc: 0.9735
+Epoch 15 / 65, Loss: 0.0532
+Epoch 15 / 65, F1 Score: 0.9225
+Epoch 15 / 65, AUROC: 0.9706
+Epoch 15 / 65, AUPC: 0.9706
+Epoch 15 / 65, Testing: Sensitivity: 0.9645048966267682, Specificity: 0.9766209538972448,Train Acc: 0.9747
+Epoch 16 / 65, Loss: 0.0799
+Epoch 16 / 65, F1 Score: 0.9308
+Epoch 16 / 65, AUROC: 0.9618
+Epoch 16 / 65, AUPC: 0.9618
+Epoch 16 / 65, Testing: Sensitivity: 0.9377584330794342, Specificity: 0.9857474258926453,Train Acc: 0.9783
+Epoch 17 / 65, Loss: 0.0700
+Epoch 17 / 65, F1 Score: 0.9174
+Epoch 17 / 65, AUROC: 0.9717
+Epoch 17 / 65, AUPC: 0.9717
+Epoch 17 / 65, Testing: Sensitivity: 0.9703155603917302, Specificity: 0.9731834501280521,Train Acc: 0.9727
+Epoch 18 / 65, Loss: 0.0865
+Epoch 18 / 65, F1 Score: 0.9343
+Epoch 18 / 65, AUROC: 0.9676
+Epoch 18 / 65, AUPC: 0.9676
+Epoch 18 / 65, Testing: Sensitivity: 0.9508378672470076, Specificity: 0.9843684039127236,Train Acc: 0.9791
+Epoch 19 / 65, Loss: 0.0038
+Epoch 19 / 65, F1 Score: 0.9224
+Epoch 19 / 65, AUROC: 0.9722
+Epoch 19 / 65, AUPC: 0.9722
+Epoch 19 / 65, Testing: Sensitivity: 0.968683351468988, Specificity: 0.975668101975258,Train Acc: 0.9746
+Epoch 20 / 65, Loss: 0.0163
+Epoch 20 / 65, F1 Score: 0.9269
+Epoch 20 / 65, AUROC: 0.9784
+Epoch 20 / 65, AUPC: 0.9784
+Epoch 20 / 65, Testing: Sensitivity: 0.9820239390642003, Specificity: 0.9747192705255159,Train Acc: 0.9759
+Epoch 21 / 65, Loss: 0.1082
+Epoch 21 / 65, F1 Score: 0.9396
+Epoch 21 / 65, AUROC: 0.9770
+Epoch 21 / 65, AUPC: 0.9770
+Epoch 21 / 65, Testing: Sensitivity: 0.9719695321001088, Specificity: 0.9821088985112191,Train Acc: 0.9805
+Epoch 22 / 65, Loss: 0.0041
+Epoch 22 / 65, F1 Score: 0.9401
+Epoch 22 / 65, AUROC: 0.9813
+Epoch 22 / 65, AUPC: 0.9813
+Epoch 22 / 65, Testing: Sensitivity: 0.9824591947769314, Specificity: 0.9801026828611289,Train Acc: 0.9805
+Epoch 23 / 65, Loss: 0.3351
+Epoch 23 / 65, F1 Score: 0.9338
+Epoch 23 / 65, AUROC: 0.9803
+Epoch 23 / 65, AUPC: 0.9803
+Epoch 23 / 65, Testing: Sensitivity: 0.9833514689880305, Specificity: 0.977312475123328,Train Acc: 0.9783
+Epoch 24 / 65, Loss: 0.1011
+Epoch 24 / 65, F1 Score: 0.9542
+Epoch 24 / 65, AUROC: 0.9788
+Epoch 24 / 65, AUPC: 0.9788
+Epoch 24 / 65, Testing: Sensitivity: 0.9690968443960827, Specificity: 0.9885054698524889,Train Acc: 0.9855
+Epoch 25 / 65, Loss: 0.1220
+Epoch 25 / 65, F1 Score: 0.9545
+Epoch 25 / 65, AUROC: 0.9781
+Epoch 25 / 65, AUPC: 0.9781
+Epoch 25 / 65, Testing: Sensitivity: 0.9671599564744288, Specificity: 0.989028131244296,Train Acc: 0.9856
+Epoch 26 / 65, Loss: 0.2426
+Epoch 26 / 65, F1 Score: 0.9531
+Epoch 26 / 65, AUROC: 0.9841
+Epoch 26 / 65, AUPC: 0.9841
+Epoch 26 / 65, Testing: Sensitivity: 0.9829597388465724, Specificity: 0.9852850715845083,Train Acc: 0.9849
+Epoch 27 / 65, Loss: 0.0020
+Epoch 27 / 65, F1 Score: 0.9414
+Epoch 27 / 65, AUROC: 0.9839
+Epoch 27 / 65, AUPC: 0.9839
+Epoch 27 / 65, Testing: Sensitivity: 0.9883569096844396, Specificity: 0.9794151821072903,Train Acc: 0.9808
+Epoch 28 / 65, Loss: 0.0339
+Epoch 28 / 65, F1 Score: 0.9555
+Epoch 28 / 65, AUROC: 0.9831
+Epoch 28 / 65, AUPC: 0.9831
+Epoch 28 / 65, Testing: Sensitivity: 0.97930359085963, Specificity: 0.9869616085105356,Train Acc: 0.9858
+Epoch 29 / 65, Loss: 0.1206
+Epoch 29 / 65, F1 Score: 0.9470
+Epoch 29 / 65, AUROC: 0.9817
+Epoch 29 / 65, AUPC: 0.9817
+Epoch 29 / 65, Testing: Sensitivity: 0.9799564744287269, Specificity: 0.9834517362409388,Train Acc: 0.9829
+Epoch 30 / 65, Loss: 0.1992
+Epoch 30 / 65, F1 Score: 0.9615
+Epoch 30 / 65, AUROC: 0.9849
+Epoch 30 / 65, AUPC: 0.9849
+Epoch 30 / 65, Testing: Sensitivity: 0.980892274211099, Specificity: 0.9890040084108279,Train Acc: 0.9877
+Epoch 31 / 65, Loss: 0.0164
+Epoch 31 / 65, F1 Score: 0.9545
+Epoch 31 / 65, AUROC: 0.9808
+Epoch 31 / 65, AUPC: 0.9808
+Epoch 31 / 65, Testing: Sensitivity: 0.9740369967355822, Specificity: 0.9876330273753955,Train Acc: 0.9855
+Epoch 32 / 65, Loss: 0.0925
+Epoch 32 / 65, F1 Score: 0.9555
+Epoch 32 / 65, AUROC: 0.9858
+Epoch 32 / 65, AUPC: 0.9858
+Epoch 32 / 65, Testing: Sensitivity: 0.9858759521218716, Specificity: 0.9856589755032626,Train Acc: 0.9857
+Epoch 33 / 65, Loss: 0.0592
+Epoch 33 / 65, F1 Score: 0.9614
+Epoch 33 / 65, AUROC: 0.9859
+Epoch 33 / 65, AUPC: 0.9859
+Epoch 33 / 65, Testing: Sensitivity: 0.9832861806311208, Specificity: 0.9884893879635102,Train Acc: 0.9877
+Epoch 34 / 65, Loss: 0.0057
+Epoch 34 / 65, F1 Score: 0.9606
+Epoch 34 / 65, AUROC: 0.9870
+Epoch 34 / 65, AUPC: 0.9870
+Epoch 34 / 65, Testing: Sensitivity: 0.986354733405876, Specificity: 0.9875767407639702,Train Acc: 0.9874
+Epoch 35 / 65, Loss: 0.0318
+Epoch 35 / 65, F1 Score: 0.9574
+Epoch 35 / 65, AUROC: 0.9876
+Epoch 35 / 65, AUPC: 0.9876
+Epoch 35 / 65, Testing: Sensitivity: 0.9895538628944505, Specificity: 0.9856509345587733,Train Acc: 0.9863
+Epoch 36 / 65, Loss: 0.0166
+Epoch 36 / 65, F1 Score: 0.9621
+Epoch 36 / 65, AUROC: 0.9864
+Epoch 36 / 65, AUPC: 0.9864
+Epoch 36 / 65, Testing: Sensitivity: 0.9842437431991294, Specificity: 0.9885858792973823,Train Acc: 0.9879
+Epoch 37 / 65, Loss: 0.0072
+Epoch 37 / 65, F1 Score: 0.9681
+Epoch 37 / 65, AUROC: 0.9884
+Epoch 37 / 65, AUPC: 0.9884
+Epoch 37 / 65, Testing: Sensitivity: 0.9863112078346028, Specificity: 0.9905317878638025,Train Acc: 0.9899
+Epoch 38 / 65, Loss: 0.0001
+Epoch 38 / 65, F1 Score: 0.9681
+Epoch 38 / 65, AUROC: 0.9901
+Epoch 38 / 65, AUPC: 0.9901
+Epoch 38 / 65, Testing: Sensitivity: 0.9904026115342763, Specificity: 0.9897276934148685,Train Acc: 0.9898
+Epoch 39 / 65, Loss: 0.0128
+Epoch 39 / 65, F1 Score: 0.9682
+Epoch 39 / 65, AUROC: 0.9895
+Epoch 39 / 65, AUPC: 0.9895
+Epoch 39 / 65, Testing: Sensitivity: 0.9888792165397171, Specificity: 0.9900372697777081,Train Acc: 0.9899
+Epoch 40 / 65, Loss: 0.0045
+Epoch 40 / 65, F1 Score: 0.9698
+Epoch 40 / 65, AUROC: 0.9875
+Epoch 40 / 65, AUPC: 0.9875
+Epoch 40 / 65, Testing: Sensitivity: 0.9830903155603917, Specificity: 0.9918143185098521,Train Acc: 0.9905
+Epoch 41 / 65, Loss: 0.0084
+Epoch 41 / 65, F1 Score: 0.9679
+Epoch 41 / 65, AUROC: 0.9892
+Epoch 41 / 65, AUPC: 0.9892
+Epoch 41 / 65, Testing: Sensitivity: 0.9883351468988031, Specificity: 0.9900613926111761,Train Acc: 0.9898
+Epoch 42 / 65, Loss: 0.0033
+Epoch 42 / 65, F1 Score: 0.9708
+Epoch 42 / 65, AUROC: 0.9917
+Epoch 42 / 65, AUPC: 0.9917
+Epoch 42 / 65, Testing: Sensitivity: 0.9931229597388466, Specificity: 0.9902382933899416,Train Acc: 0.9907
+Epoch 43 / 65, Loss: 0.0512
+Epoch 43 / 65, F1 Score: 0.9621
+Epoch 43 / 65, AUROC: 0.9905
+Epoch 43 / 65, AUPC: 0.9905
+Epoch 43 / 65, Testing: Sensitivity: 0.9945593035908596, Specificity: 0.9865273975081112,Train Acc: 0.9878
+Epoch 44 / 65, Loss: 0.0041
+Epoch 44 / 65, F1 Score: 0.9794
+Epoch 44 / 65, AUROC: 0.9912
+Epoch 44 / 65, AUPC: 0.9912
+Epoch 44 / 65, Testing: Sensitivity: 0.9878781284004352, Specificity: 0.994556280580717,Train Acc: 0.9935
+Epoch 45 / 65, Loss: 0.0077
+Epoch 45 / 65, F1 Score: 0.9761
+Epoch 45 / 65, AUROC: 0.9900
+Epoch 45 / 65, AUPC: 0.9900
+Epoch 45 / 65, Testing: Sensitivity: 0.9863982589771491, Specificity: 0.9935994081864856,Train Acc: 0.9925
+Epoch 46 / 65, Loss: 0.0001
+Epoch 46 / 65, F1 Score: 0.9746
+Epoch 46 / 65, AUROC: 0.9880
+Epoch 46 / 65, AUPC: 0.9880
+Epoch 46 / 65, Testing: Sensitivity: 0.9822850924918389, Specificity: 0.9938004317987191,Train Acc: 0.9920
+Epoch 47 / 65, Loss: 0.0150
+Epoch 47 / 65, F1 Score: 0.9634
+Epoch 47 / 65, AUROC: 0.9898
+Epoch 47 / 65, AUPC: 0.9898
+Epoch 47 / 65, Testing: Sensitivity: 0.9919477693144723, Specificity: 0.9875566384027468,Train Acc: 0.9882
+Epoch 48 / 65, Loss: 0.0283
+Epoch 48 / 65, F1 Score: 0.9793
+Epoch 48 / 65, AUROC: 0.9897
+Epoch 48 / 65, AUPC: 0.9897
+Epoch 48 / 65, Testing: Sensitivity: 0.9841131664853101, Specificity: 0.9952679041680236,Train Acc: 0.9935
+Epoch 49 / 65, Loss: 0.0005
+Epoch 49 / 65, F1 Score: 0.9799
+Epoch 49 / 65, AUROC: 0.9891
+Epoch 49 / 65, AUPC: 0.9891
+Epoch 49 / 65, Testing: Sensitivity: 0.9822633297062024, Specificity: 0.9958508726435007,Train Acc: 0.9937
+Epoch 50 / 65, Loss: 0.0921
+Epoch 50 / 65, F1 Score: 0.9718
+Epoch 50 / 65, AUROC: 0.9926
+Epoch 50 / 65, AUPC: 0.9926
+Epoch 50 / 65, Testing: Sensitivity: 0.9948204570184984, Specificity: 0.9902986004736116,Train Acc: 0.9910
+Epoch 51 / 65, Loss: 0.0124
+Epoch 51 / 65, F1 Score: 0.9788
+Epoch 51 / 65, AUROC: 0.9937
+Epoch 51 / 65, AUPC: 0.9937
+Epoch 51 / 65, Testing: Sensitivity: 0.9944069640914037, Specificity: 0.9930767467946785,Train Acc: 0.9933
+Epoch 52 / 65, Loss: 0.0004
+Epoch 52 / 65, F1 Score: 0.9738
+Epoch 52 / 65, AUROC: 0.9923
+Epoch 52 / 65, AUPC: 0.9923
+Epoch 52 / 65, Testing: Sensitivity: 0.9932317736670294, Specificity: 0.9913841279796725,Train Acc: 0.9917
+Epoch 53 / 65, Loss: 0.0064
+Epoch 53 / 65, F1 Score: 0.9775
+Epoch 53 / 65, AUROC: 0.9934
+Epoch 53 / 65, AUPC: 0.9934
+Epoch 53 / 65, Testing: Sensitivity: 0.9940805223068553, Specificity: 0.9926264539032755,Train Acc: 0.9929
+Epoch 54 / 65, Loss: 0.0613
+Epoch 54 / 65, F1 Score: 0.9802
+Epoch 54 / 65, AUROC: 0.9936
+Epoch 54 / 65, AUPC: 0.9936
+Epoch 54 / 65, Testing: Sensitivity: 0.9932970620239391, Specificity: 0.9938285751044318,Train Acc: 0.9937
+Epoch 55 / 65, Loss: 0.0001
+Epoch 55 / 65, F1 Score: 0.9827
+Epoch 55 / 65, AUROC: 0.9886
+Epoch 55 / 65, AUPC: 0.9886
+Epoch 55 / 65, Testing: Sensitivity: 0.9797823721436344, Specificity: 0.9973746316242306,Train Acc: 0.9946
+Epoch 56 / 65, Loss: 0.0026
+Epoch 56 / 65, F1 Score: 0.9814
+Epoch 56 / 65, AUROC: 0.9941
+Epoch 56 / 65, AUPC: 0.9941
+Epoch 56 / 65, Testing: Sensitivity: 0.993993471164309, Specificity: 0.9941502128840054,Train Acc: 0.9941
+Epoch 57 / 65, Loss: 0.0081
+Epoch 57 / 65, F1 Score: 0.9831
+Epoch 57 / 65, AUROC: 0.9940
+Epoch 57 / 65, AUPC: 0.9940
+Epoch 57 / 65, Testing: Sensitivity: 0.99310119695321, Specificity: 0.994982450638652,Train Acc: 0.9947
+Epoch 58 / 65, Loss: 0.0000
+Epoch 58 / 65, F1 Score: 0.9854
+Epoch 58 / 65, AUROC: 0.9952
+Epoch 58 / 65, AUPC: 0.9952
+Epoch 58 / 65, Testing: Sensitivity: 0.9949510337323177, Specificity: 0.9954850096692357,Train Acc: 0.9954
+Epoch 59 / 65, Loss: 0.0001
+Epoch 59 / 65, F1 Score: 0.9825
+Epoch 59 / 65, AUROC: 0.9949
+Epoch 59 / 65, AUPC: 0.9949
+Epoch 59 / 65, Testing: Sensitivity: 0.9954733405875952, Specificity: 0.9942788679958348,Train Acc: 0.9945
+Epoch 60 / 65, Loss: 0.0014
+Epoch 60 / 65, F1 Score: 0.9854
+Epoch 60 / 65, AUROC: 0.9956
+Epoch 60 / 65, AUPC: 0.9956
+Epoch 60 / 65, Testing: Sensitivity: 0.9959521218715995, Specificity: 0.9953040884182256,Train Acc: 0.9954
+Epoch 61 / 65, Loss: 0.0034
+Epoch 61 / 65, F1 Score: 0.9849
+Epoch 61 / 65, AUROC: 0.9931
+Epoch 61 / 65, AUPC: 0.9931
+Epoch 61 / 65, Testing: Sensitivity: 0.9899455930359086, Specificity: 0.9962649812847018,Train Acc: 0.9953
+Epoch 62 / 65, Loss: 0.1391
+Epoch 62 / 65, F1 Score: 0.9836
+Epoch 62 / 65, AUROC: 0.9935
+Epoch 62 / 65, AUPC: 0.9935
+Epoch 62 / 65, Testing: Sensitivity: 0.9914472252448313, Specificity: 0.995456866363523,Train Acc: 0.9948
+Epoch 63 / 65, Loss: 0.0019
+Epoch 63 / 65, F1 Score: 0.9874
+Epoch 63 / 65, AUROC: 0.9943
+Epoch 63 / 65, AUPC: 0.9943
+Epoch 63 / 65, Testing: Sensitivity: 0.9917301414581067, Specificity: 0.9968358883434448,Train Acc: 0.9960
+Epoch 64 / 65, Loss: 0.0001
+Epoch 64 / 65, F1 Score: 0.9823
+Epoch 64 / 65, AUROC: 0.9954
+Epoch 64 / 65, AUPC: 0.9954
+Epoch 64 / 65, Testing: Sensitivity: 0.9969314472252448, Specificity: 0.9939130050215699,Train Acc: 0.9944
+Epoch 65 / 65, Loss: 0.0005
+Epoch 65 / 65, F1 Score: 0.9895
+Epoch 65 / 65, AUROC: 0.9965
+Epoch 65 / 65, AUPC: 0.9965
+Epoch 65 / 65, Testing: Sensitivity: 0.996126224156692, Specificity: 0.9968117655099769,Train Acc: 0.9967
